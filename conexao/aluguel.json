@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "imagem": "assets/img/alugar/60/cobra65/cb.1.webp",
+        "modelo": "COBRA AMERICAR",
+        "ano": "1965/1965",
+        "preco": 1500.00,
+        "descricao": "AMERICAR COBRA - Branco - Gasolina - Direção hidráulica - Motor V8 302",
+        "imagensAdicionais": [
+          "assets/img/alugar/60/cobra65/cb.2.webp",
+          "assets/img/alugar/60/cobra65/cb.3.webp",
+          "assets/img/alugar/60/cobra65/cb.4.webp",
+          "assets/img/alugar/60/cobra65/cb.5.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/alugar/70/targa79/tg.1.webp",
+      "modelo": "PORSCHE 911 SC",
+      "ano": "1979/1979",
+      "preco": 2300.00,
+      "descricao": "PORSCHE 911 SC TARGA - Vermelho - Gasolina - Direção hidráulica - Motor 3.0",
+      "imagensAdicionais": [
+        "assets/img/alugar/70/targa79/tg.2.webp",
+        "assets/img/alugar/70/targa79/tg.3.webp",
+        "assets/img/alugar/70/targa79/tg.4.webp",
+        "assets/img/alugar/70/targa79/tg.5.webp"
+      ]
+    },
+    {
+        "id": 3,
+        "imagem": "assets/img/alugar/80/escort86/es.1.webp",
+        "modelo": "FORD ESCORT XR3",
+        "ano": "1986/1986",
+        "preco": 800.00,
+        "descricao": "Ford Escort XR3 - Vermelho - Etanol - Direção hidráulica - Motor 1.6",
+        "imagensAdicionais": [
+          "assets/img/alugar/80/escort86/es.2.webp",
+          "assets/img/alugar/80/escort86/es.3.webp",
+          "assets/img/alugar/80/escort86/es.4.webp",
+          "assets/img/alugar/80/escort86/es.5.webp"
+      ]
+    },
+    {
+        "id": 4,
+        "imagem": "assets/img/alugar/90/chero98/ch1.webp",
+        "modelo": "GRAND CHEROKEE",
+        "ano": "1998/1998",
+        "preco": 2500.00,
+        "descricao": "Jeep Grand Cherokee 5.9 - Preto - Gasolina - Direção hidráulica - Automático - Motor V8",
+        "imagensAdicionais": [
+          "assets/img/alugar/90/chero98/ch2.webp",
+          "assets/img/alugar/90/chero98/ch3.webp",
+          "assets/img/alugar/90/chero98/ch4.webp",
+          "assets/img/alugar/90/chero98/ch5.webp"
+      ]
+    },
+    {
+        "id": 5,
+        "imagem": "assets/img/alugar/80/santana89/san1.webp",
+        "modelo": "SANTANA GLS",
+        "ano": "1989/1989",
+        "preco": 950.00,
+        "descricao": "VW Santana GLS - Dourado - Gasolina - Direção hidráulica - Manual - Motor 2.0",
+        "imagensAdicionais": [
+          "assets/img/alugar/80/santana89/san2.webp",
+          "assets/img/alugar/80/santana89/san3.webp",
+          "assets/img/alugar/80/santana89/san4.webp",
+          "assets/img/alugar/80/santana89/san5.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/alugar/90/mbt99/mbt1.webp",
+      "modelo": "MERCEDES BENZ C230",
+      "ano": "1999/1999",
+      "preco": 1500.00,
+      "descricao": "Mercedes Benz C230 Touring - Preto - Gasolina - Direção hidráulica - Automático - Motor 4 cilindros Kompressor",
+      "imagensAdicionais": [
+        "assets/img/alugar/90/mbt99/mbt2.webp",
+        "assets/img/alugar/90/mbt99/mbt3.webp",
+        "assets/img/alugar/90/mbt99/mbt4.webp",
+        "assets/img/alugar/90/mbt99/mbt5.webp"
+      ]
+    },
+    {
+        "id": 7,
+        "imagem": "assets/img/alugar/60/willys66/will1.webp",
+        "modelo": "JEEP WILLYS",
+        "ano": "1966/1966",
+        "preco": 930.00,
+        "descricao": "Jeep Willys CJ5 - 1966/1966 - Amarelo - Gasolina - Direção manual - Motor 6 cilindros",
+        "imagensAdicionais": [
+         "assets/img/alugar/60/willys66/will2.webp",
+         "assets/img/alugar/60/willys66/will3.webp",
+         "assets/img/alugar/60/willys66/will4.webp",
+         "assets/img/alugar/60/willys66/will5.webp"
+      ]
+    },
+    {
+        "id": 8,
+        "imagem": "assets/img/alugar/70/mb72/mb1.webp",
+        "modelo": "MERCEDES BENZ SL 350",
+        "ano": "1972/1972",
+        "preco": 2600.00,
+        "descricao": "Mercedes Benz SL 350 - 1972/1972 - Branco - Gasolina - Direção hidráulica - Automático - Motor V8",
+        "imagensAdicionais": [
+          "assets/img/alugar/70/mb72/mb2.webp",
+          "assets/img/alugar/70/mb72/mb3.webp",
+          "assets/img/alugar/70/mb72/mb4.webp",
+          "assets/img/alugar/70/mb72/mb5.webp"
+      ]
+    }
+  ]
+  
